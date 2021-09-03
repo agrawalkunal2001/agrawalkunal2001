@@ -6,11 +6,6 @@
 
 
 
-
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrawalkunal2001&show_icons=true&theme=react&count_private=true)
-
-
-
 <a href="https://github.com/agrawalkunal2001/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalkunal2001&layout=compact&theme=react&count_private=true" />
 </a>
