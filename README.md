@@ -10,7 +10,7 @@
 
 
 
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrawalkunal2001&show_icons=true&theme=highcontrast)
+![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrawalkunal2001&show_icons=true&theme=tokyonight)
 
 
 
