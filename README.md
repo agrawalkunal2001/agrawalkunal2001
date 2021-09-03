@@ -7,7 +7,7 @@
 
 
 
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrawalkunal2001&show_icons=true&theme=tokyonight&count_private=true)
+![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrawalkunal2001&show_icons=true&theme=algolia&count_private=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalkunal2001&layout=compact&theme=tokyonight&count_private=true)](https://github.com/agrawalkunal2001/github-readme-stats)
