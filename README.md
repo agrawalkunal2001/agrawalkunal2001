@@ -6,13 +6,12 @@
 
 
 
-[![Kunal's github activity graph](https://activity-graph.herokuapp.com/graph?username=agrawalkunal2001&theme=github)](https://github.com/agrawalkunal2001/github-readme-activity-graph)
-
-
 
 ![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrawalkunal2001&show_icons=true&theme=tokyonight)
 
 
+
+[![Kunal's github activity graph](https://activity-graph.herokuapp.com/graph?username=agrawalkunal2001&theme=github)](https://github.com/agrawalkunal2001/github-readme-activity-graph)
 
 
 <!---
