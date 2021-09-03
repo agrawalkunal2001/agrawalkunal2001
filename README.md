@@ -13,8 +13,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalkunal2001&layout=compact&theme=react&count_private=true)](https://github.com/agrawalkunal2001/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/agrawalkunal2001/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalkunal2001&layout=compact&theme=react&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
