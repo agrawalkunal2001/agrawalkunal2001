@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on any open source project.
 - 📫 How to reach me agrawalkunal2001@gmail.com
 
-[![Kunal's github activity graph](https://activity-graph.herokuapp.com/graph?username=agrawalkunal2001)](https://github.com/agrawalkunal2001/github-readme-activity-graph)
+
+
+[![Kunal's github activity graph](https://activity-graph.herokuapp.com/graph?username=agrawalkunal2001&theme=github)](https://github.com/agrawalkunal2001/github-readme-activity-graph)
 
 
 <!---
