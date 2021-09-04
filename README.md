@@ -38,7 +38,7 @@
 
 
 
-[![Kunal's github activity graph](https://activity-graph.herokuapp.com/graph?username=agrawalkunal2001&theme=react-dark)](https://github.com/agrawalkunal2001/github-readme-activity-graph)
+
 
 
 <!---
