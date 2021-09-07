@@ -36,7 +36,7 @@
   <br/>
   <p align="center">
     <a href="https://github.com/agrawalkunal2001"><img align="center" alt="agrawalkunal2001's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=agrawalkunal2001&show_icons=true&count_private=true&theme=highcontrast&hide_border=true" height="192px"/></a>
-  <a href="https://github.com/agrawalkunal2001"><img align="center" height="192px" alt="agrawalkunal2001's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalkunal2001&langs_count=20&layout=compact&theme=highcontrast&hide_border=true" /></a>
+    <a href="https://github.com/agrawalkunal2001"><img align="center" height="192px" alt="agrawalkunal2001's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalkunal2001&langs_count=20&layout=compact&theme=highcontrast&hide_border=true" height="192px"/></a>
   <br/>
   </p>
  
