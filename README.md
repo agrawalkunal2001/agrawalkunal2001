@@ -35,8 +35,7 @@
 </a>
 
 
-[![Kunal's github activity graph](https://activity-graph.herokuapp.com/graph?username=agrawalkunal2001&bg_color=000000&color=F8D866&line=39FF14&area_color=39FF14&point=FFFFFF&hide_border=true&area=true)
-
+[![Kunal's github activity graph](https://activity-graph.herokuapp.com/graph?username=agrawalkunal2001&theme=react-dark)
 
 
 
