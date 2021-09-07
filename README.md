@@ -27,15 +27,23 @@
 
 
 
-<a href="https://github.com/agrawalkunal2001/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalkunal2001&layout=compact&theme=react&count_private=true" />
-</a>
-<a href="https://github.com/agrawalkunal2001/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=agrawalkunal2001&show_icons=true&theme=react&count_private=true" />
-</a>
+<details open=""> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/agrawalkunal2001"><img align="center" alt="agrawalkunal2001's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=agrawalkunal2001&show_icons=true&count_private=true&theme=highcontrast&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/agrawalkunal2001"><img align="center" height="192px" alt="agrawalkunal2001's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalkunal2001&langs_count=20&layout=compact&theme=highcontrast&hide_border=true" /></a>
+  <br/>
+  </p>
+ 
+</details>
 
+<!--Contribution Graph-->
+</br>
 
-[![Kunal's github activity graph](https://activity-graph.herokuapp.com/graph?username=agrawalkunal2001&theme=react-dark)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=agrawalkunal2001&bg_color=000000&color=F8D866&line=39FF14&area_color=39FF14&point=FFFFFF&hide_border=true&area=true)
+
+</br>
 
 
 
