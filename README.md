@@ -46,9 +46,9 @@
 <p align="center">
 <a href="mailto:agrawalkunal2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href = "https://www.linkedin.com/in/kunal-agrawal-68a3741b9/" target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "https://www.instagram.com/kunal_ag2001/" target= "_blank"><img src="https://img.shields.io/badge/foody_kole-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href = "https://www.instagram.com/kunal_ag2001/" target= "_blank"><img src="https://img.shields.io/badge/kunal_ag2001-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href ="https://github.com/agrawalkunal2001"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://twitter.com/KunalAg2001" target= "_blank"><img src="https://img.shields.io/badge/SwapnilKole6-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/KunalAg2001" target= "_blank"><img src="https://img.shields.io/badge/KunalAg2001-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://wa.me/9099934293"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 </p>
