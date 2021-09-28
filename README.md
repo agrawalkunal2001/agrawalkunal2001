@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawalkunal2001&label=Profile%20views&color=0e75b6&style=flat" alt="agrawalkunal2001" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter and React JS**
 
 - 📫 How to reach me **agrawalkunal2001@gmail.com**
 
