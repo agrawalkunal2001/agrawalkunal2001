@@ -36,7 +36,7 @@
 <!--Contribution Graph-->
 </br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=agrawalkunal2001&bg_color=000000&color=F8D866&line=39FF14&area_color=39FF14&point=FFFFFF&hide_border=true&area=true&count_private=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=agrawalkunal2001&count_private=true&bg_color=000000&color=F8D866&line=39FF14&area_color=39FF14&point=FFFFFF&hide_border=true&area=true)
 
 </br>
 
